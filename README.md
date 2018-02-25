@@ -1,2 +1,2 @@
-# firebase-cloud-functions
+# About
 Firebase Cloud Functions tests.
