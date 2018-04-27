@@ -1,2 +1,2 @@
 # About
-Firebase Cloud Functions tests.
+Firebase Cloud Functions exemple.
